@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (tmp\Release\) contains files shared from another project (RigidZ.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  menu.cpp
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(494,27): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(495,27): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(546,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(683,206): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(755,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(770,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(773,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(784,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(784,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1339,9): warning C4102: 'Menu': unreferenced label
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1408,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1415,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1453,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1489,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1501,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1511,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1523,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1541,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1565,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1608,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1649,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1665,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1681,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\menu.cpp(1703,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  30 of 951 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RigidZ.vcxproj -> C:\Users\spenc\OneDrive\Desktop\RigidZ Base\scripts\RigidZ\~ws~ ~r~xPloitz.asi
