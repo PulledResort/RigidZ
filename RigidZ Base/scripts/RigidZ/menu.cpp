@@ -33,7 +33,6 @@ DWORD back_key = VK_NUMPAD0;
 // Menu Sizes
 float MenuX = 165;
 float MenuY = 95;
-float menuScrollRectY = 0.0;
 float MenuWidth = 289;
 float MinusCatagoryHeight = 6;
 float SpriteCatagoryHeading = 0;
@@ -1294,7 +1293,7 @@ namespace Menu
 				Menu::UpdateMenu();
 				#pragma endregion
 
-				Menu::SetValues(9, "Customizer", MenuOptions);
+				Menu::SetValues(8, "Customizer", MenuOptions);
 
 				Menu::IntList("Title Design", 1, 3, CurrentDesign, 0);
 				Menu::IntList("Title Font", 1, 8, CurrentTitleFont, 1);
@@ -1303,9 +1302,7 @@ namespace Menu
 				Menu::IntList("Selection arrowFont", 0, 2, selectionArrowID, 4);
 				Menu::FloatList("Catagory arrowWidth", -69.0, 169.0, MinusCatagoryWidth, 5);
 				Menu::FloatList("Catagory arrowWidth", -69.0, 169.0, MinusCatagoryHeight, 6);
-				Menu::FloatList("byAdd [bgd%^]", -129.0, 169.0, byAdd, 6);
-				//Menu::FloatList("Catagory ~", -69.0, 169.0, ~, 6);
-				//Menu::Category("Credits", EffectOptions, 3);
+				Menu::FloatList("byAdd [bgd%^]", -129.0, 169.0, byAdd, 7);
 
 				if (IsKeyJustUp(main_key))
 				{
