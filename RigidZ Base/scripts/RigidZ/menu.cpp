@@ -1268,7 +1268,7 @@ namespace Menu
 				Menu::Toggle("Freeze Time", &featureTimeFreeze, 0);
 				Menu::Toggle("Freeze Weather", &featureWeatherFreeze, 1);
 				Menu::IntListFunction("Set Time", 0, 23, Time, FEATURE_FUNC_TIME_SET, 2);
-				Menu::CharListFunction("Set Weather", WeatherNames, Weathers, &CurrentWeather, 8, FEATURE_FUNC_WEATHER_SET, 3);
+				Menu::CharListFunction("Set Weather", WeatherNames, Weathers, &CurrentWeather, 7, FEATURE_FUNC_WEATHER_SET, 3);
 
 
 				if (IsKeyJustUp(main_key))
